@@ -17,10 +17,10 @@ Controls which parts of the file system functions can access.
 Currently, Prisma Cloud supports AWS Lambda functions.
 The following runtimes are supported:
 
-* C# (.NET Core 2.1)
-* Java 8
+* C# (.NET Core 2.1 and .NET Core 3.1)
+* Java 8 and 11
 * Node.js 10.x
-* Python 2.7, 3.6, and 3.7
+* Python 2.7, 3.6, 3.7, and 3.8
 
 // To be fixed in Fermat
 // https://github.com/twistlock/twistlock/issues/18563
